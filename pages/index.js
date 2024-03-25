@@ -19,7 +19,8 @@ export default function Home() {
     </p>
     </td>
      <td>
-    <p>Nhà cái hàng đầu châu Á</p>
+    <p>#Nhà cái hàng đầu châu Á</p>
+     <p>79CLUB INC</p>
     <p>Tải xuống miễn phí:</p>
     <table>
      <tr>
@@ -35,7 +36,7 @@ export default function Home() {
  <p class="scroll-viewe"> <img width="300px" src="https://anhafood.com/anh.png" /> </p>
 
 <p>Tham gia 79club cùng với hàng triệu người chơi từ mọi nơi trên thế giới! Đắm mình vào thế giới sôi động, đặt cược và chiến thắng để chứng minh rằng bạn là người chiến thắng thực sự. Đầu tư và nâng cao cược của bạn, cải thiện kỹ năng, tích lũy kinh nghiệm và trở thành người chơi giỏi nhất từ trước đến nay!</p>
-<p>Có gì mới?</p>  
+<p>CÓ GÌ MỚI?</p>  
     <p>Version 1.0.0
     * ONE ACCOUNT – Bắt đầu chơi trên điện thoại thông minh hoặc máy tính bảng của bạn và tiếp tục chơi ở mọi nơi mà không làm mất tiến trình của bạn.</p>
         
