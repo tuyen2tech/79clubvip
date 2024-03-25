@@ -16,7 +16,7 @@ export default function Home() {
     <tr>
     <td><img src=""></td>
      <td>
-    <p>79CLUB</p>
+
     <p>Nhà cái hàng đầu châu Á</p>
     <p>Tải xuống miễn phí:</p>
     </td>
