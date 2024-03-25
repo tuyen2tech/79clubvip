@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>79Club kiếm tiền online</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="79CLUB" />
     <table> 
     <tr>
-    <td>LOGO 79CLUB
+    <td>
     <p> <img src="https://anhafood.com/logo.jpg" width="80px" />
     </p>
     </td>
