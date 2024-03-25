@@ -24,8 +24,8 @@ export default function Home() {
     </td>
     </tr>
     <tr>
-    <td><button name="button" type="button">iOS</button></td>
-    <td><button name="button" type="button">Android</button></td>
+    <td><button class="button" name="button" type="button">iOS</button></td>
+    <td><button class="button" name="button" type="button">Android</button></td>
     </tr>
     
     </table>
