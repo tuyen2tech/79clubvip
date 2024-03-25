@@ -15,7 +15,7 @@ export default function Home() {
     <table> 
     <tr>
     <td>LOGO 79CLUB
-    <p> <img src="https://anhafood.com/logo.jpg">
+    <p> <img src="https://anhafood.com/logo.jpg" width="80px" />
     </p>
     </td>
      <td>
