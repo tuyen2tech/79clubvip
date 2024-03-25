@@ -14,7 +14,10 @@ export default function Home() {
         <Header title="79CLUB" />
     <table> 
     <tr>
-    <td>LOGO 79CLUB</td>
+    <td>LOGO 79CLUB
+    <p> <img src="https://anhafood.com/logo.jpg">
+    </p>
+    </td>
      <td>
     <p>Nhà cái hàng đầu châu Á</p>
     <p>Tải xuống miễn phí:</p>
