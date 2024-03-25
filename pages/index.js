@@ -34,13 +34,13 @@ export default function Home() {
     
     </table>
     <p>HƯỚNG DẪN CÀI ĐẶT</p>
-     <p> <img src="https://anhafood.com/anh.png" width="700px" /> </p>
+
 
 <p className="description">Tham gia 79club cùng với hàng triệu người chơi từ mọi nơi trên thế giới! Đắm mình vào thế giới sôi động, đặt cược và chiến thắng để chứng minh rằng bạn là người chiến thắng thực sự. Đầu tư và nâng cao cược của bạn, cải thiện kỹ năng, tích lũy kinh nghiệm và trở thành người chơi giỏi nhất từ trước đến nay!</p>
 <p>Có gì mới?</p>  
     <p>Version 1.0.0 </br>
     * ONE ACCOUNT – Bắt đầu chơi trên điện thoại thông minh hoặc máy tính bảng của bạn và tiếp tục chơi ở mọi nơi mà không làm mất tiến trình của bạn.</p>
-    
+         <p> <img src="https://anhafood.com/anh.png" width="700px" /> </p>
         
     <p>
 Quyền riêng tư:</br>
