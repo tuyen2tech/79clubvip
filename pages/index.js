@@ -48,9 +48,7 @@ Chính sách Bảo mật này áp dụng khi bạn sử dụng Dịch vụ của
 
 Nếu bạn có bất kỳ câu hỏi, nhận xét hoặc thắc mắc nào liên quan đến Chính sách Bảo mật hoặc các thông lệ của chúng tôi, vui lòng liên hệ với chúng tôi.
     </p>
-    <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+ 
       </main>
 
       <Footer />
