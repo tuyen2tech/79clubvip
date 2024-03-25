@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="79CLUB" />
     <table> 
     <tr>
-    <td>Logo</td>
+    <td><img src="https://maykhaithacmo.vn/wp-content/uploads/2023/12/z4708576459389_be6e14fccc38e022dc88f189866e5dab.jpg"></td>
      <td>
     <p>79CLUB</p>
     <p>Nhà cái hàng đầu châu Á</p>
