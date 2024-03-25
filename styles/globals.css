@@ -57,3 +57,7 @@ code {
   background-color: #008CBd;
   color: white;
 }
+.scroll-viewer {
+  overflow: auto;
+  white-space: nowrap;
+}
