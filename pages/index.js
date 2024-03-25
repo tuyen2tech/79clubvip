@@ -33,7 +33,7 @@ export default function Home() {
    
     
     </table>
-    <p className="description">HƯỚNG DẪN CÀI ĐẶT</p>
+    <p>HƯỚNG DẪN CÀI ĐẶT</p>
      <p> <img src="https://anhafood.com/anh.png" width="700px" /> </p>
 
 <p className="description">Tham gia 79club cùng với hàng triệu người chơi từ mọi nơi trên thế giới! Đắm mình vào thế giới sôi động, đặt cược và chiến thắng để chứng minh rằng bạn là người chiến thắng thực sự. Đầu tư và nâng cao cược của bạn, cải thiện kỹ năng, tích lũy kinh nghiệm và trở thành người chơi giỏi nhất từ trước đến nay!</p>
