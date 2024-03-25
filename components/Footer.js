@@ -4,7 +4,9 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/logo-netlify.svg" alt="Netlify Logo" className={styles.logo} />
+      <p>Chính sách bảo mật | Điều khoản sử dụng  </p>
+<p>Copyright © 2024 79CLUB INC.  </p>
+  
       </footer>
     </>
   )
