@@ -21,12 +21,16 @@ export default function Home() {
      <td>
     <p>Nhà cái hàng đầu châu Á</p>
     <p>Tải xuống miễn phí:</p>
-    </td>
-    </tr>
-    <tr>
+    <table>
+     <tr>
     <td><button class="button button1" name="button" type="button">iOS</button></td>
     <td><button class="button button2" name="button" type="button">Android</button></td>
     </tr>
+    
+    </table>
+    </td>
+    </tr>
+   
     
     </table>
     <p className="description">HƯỚNG DẪN CÀI ĐẶT</p>
