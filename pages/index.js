@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="79CLUB" />
     <p className="description">HƯỚNG DẪN CÀI ĐẶT</p>
-<P><img alt="" src="https://vn78.netlify.app/static/media/step-webclip-vi.6ed5bd73.png" style="height: 260px; max-width: unset;"></></div>
+<P><img src="https://vn78.netlify.app/static/media/step-webclip-vi.6ed5bd73.png" style="height: 260px; max-width: unset;"></p>
 <p className="description">Tham gia 79club cùng với hàng triệu người chơi từ mọi nơi trên thế giới! Đắm mình vào thế giới sôi động, đặt cược và chiến thắng để chứng minh rằng bạn là người chiến thắng thực sự. Đầu tư và nâng cao cược của bạn, cải thiện kỹ năng, tích lũy kinh nghiệm và trở thành người chơi giỏi nhất từ trước đến nay!</p>
     
         <p className="description">
