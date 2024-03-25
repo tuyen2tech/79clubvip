@@ -17,6 +17,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width:75%;
 }
 
 code {
@@ -32,6 +33,7 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  
 
 }
 .button {
