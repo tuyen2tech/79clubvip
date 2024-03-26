@@ -64,5 +64,6 @@ code {
 .toptop {
   background-color: #008CBd;
   height:60px;
-  width:100%
+  width:100%;
+  padding-left:100px;
 }
