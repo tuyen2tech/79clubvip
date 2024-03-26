@@ -25,7 +25,7 @@ export default function Home() {
     <table>
      <tr>
     <td><a href="https://79club.vip/"><button class="button button1" name="button" type="button">iOS</button></a></td>
-    <td><a href="https://79club.vip/"><button class="button button2" name="button" type="button">Android</button></a></td>
+    <td><a href="https://anhafood.com/79club.apk"><button class="button button2" name="button" type="button">Android</button></a></td>
     </tr>
     
     </table>
