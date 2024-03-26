@@ -9,7 +9,7 @@ export default function Home() {
         <title>79Club kiếm tiền online</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-<div class="toptop"><img src="https://anhafood.com/logo.jpg" width="50px" /></div>
+<div class="toptop"><img src="https://anhafood.com/logo.jpg" width="65px" /></div>
       <main>
         <Header title="79CLUB" />
     <table> 
