@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 <div class="toptop"><img src="https://anhafood.com/logo.jpg" width="65px" /></div>
       <main>
-        <Header title="79CLUB" />
+   
     <table> 
     <tr>
     <td>
